@@ -1,0 +1,52 @@
+body {
+
+    background-color: black;
+    color: white;
+    
+}
+
+header {
+    padding: 20px;
+}
+
+h1 {
+   text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.formulario, .quanto-falta, .nota-final { 
+    padding: 20px;
+    border: solid;
+    border-color: rgb(230, 210, 210);
+    background-color: grey;
+    border-radius: 10px;
+    padding: 40px;
+    width: 700px;
+    margin: auto;
+    text-align: center;
+}
+
+#resp, #cal {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 20px 5px 0px 0px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+a{
+    color: white;
+}
+
+footer{
+    text-align: center;
+}
+
